@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'carwash-iconfont';
+  src:  url('fonts/carwash-iconfont.eot?fi435e');
+  src:  url('fonts/carwash-iconfont.eot?fi435e#iefix') format('embedded-opentype'),
+    url('fonts/carwash-iconfont.ttf?fi435e') format('truetype'),
+    url('fonts/carwash-iconfont.woff?fi435e') format('woff'),
+    url('fonts/carwash-iconfont.svg?fi435e#carwash-iconfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'carwash-iconfont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron_left:before {
+  content: "\e900";
+}
+.icon-chevron_right:before {
+  content: "\e901";
+}
+.icon-icon_check:before {
+  content: "\e902";
+}
+.icon-icon_close:before {
+  content: "\e903";
+}
+.icon-icon_info:before {
+  content: "\e904";
+}
+.icon-icon_contactloosbetalen:before {
+  content: "\e905";
+}
+.icon-icon_payconiq:before {
+  content: "\e906";
+  color: #ff4785;
+}
+.icon-icon_francais .path1:before {
+  content: "\e907";
+  color: rgb(240, 240, 240);
+}
+.icon-icon_francais .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.icon-icon_francais .path3:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.icon-icon_deutsch .path1:before {
+  content: "\e90a";
+  color: rgb(255, 218, 68);
+}
+.icon-icon_deutsch .path2:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-icon_deutsch .path3:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.icon-icon_dutch .path1:before {
+  content: "\e90d";
+  color: rgb(240, 240, 240);
+}
+.icon-icon_dutch .path2:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(162, 0, 29);
+}
+.icon-icon_dutch .path3:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.icon-icon_english .path1:before {
+  content: "\e910";
+  color: rgb(240, 240, 240);
+}
+.icon-icon_english .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.icon-icon_english .path3:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}

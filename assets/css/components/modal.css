@@ -1,0 +1,297 @@
+.modal-content {
+    height: 100%;
+    width: 100%;
+    border: none;
+
+    box-shadow: 0 0 30px rgba(31, 32, 65, 0.15);
+}
+
+/* large modal */
+.modal-large {
+    width: calc(100vw - 20px);
+    height: calc(100vh - 20px);
+    max-width: unset;
+    margin: 10px;
+}
+
+.modal-large__image {
+    padding: 5px 0 60px;
+}
+
+.modal-large__image--image {
+    height: 180px;
+}
+
+.modal-large__text-title--title {
+    /* margin-bottom: 30px; */
+}
+
+.modal-large__text-title--text {
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    margin-bottom: 20px;
+}
+
+.modal-large__text-title--subtitle {
+    font-weight: 500;
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    padding-top: 70px;
+    margin-bottom: 25px;
+}
+
+.modal-large__usps {
+    position: absolute;
+    bottom: 0;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.modal-large__usps--usp-image {
+    height: 80px;
+
+    margin-bottom: 30px;
+}
+
+.modal-large__usps--usp-text {
+    font-weight: bold;
+    line-height: normal;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+/* normal modal */
+.modal-normal {
+    width: calc(100vw - 400px);
+    height: calc(100vh - 200px);
+    max-width: unset;
+    margin: 100px 200px;
+}
+
+/* 2x12 modal */
+.modal-2x12 {
+    width: calc(100vw - 20px);
+    max-width: unset;
+    margin: 10px 10px auto 10px;
+}
+
+.modal-2x12__image {
+    position: relative;
+    padding: 60px;
+}
+
+.modal-2x12__image--image {
+    position: absolute;
+    left: 60px;
+    top: 50%;
+    transform: translateY(-50%);
+    max-width: calc(100% - 120px);
+}
+
+.modal-2x12__text-title {
+    padding: 50px 30px 50px 0;
+}
+
+.modal-2x12__text-title--title {
+    margin-bottom: 20px;
+}
+
+.modal-2x12__text-title--text {
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+
+    margin-bottom: 10px;
+}
+
+.modal-2x12__text-title--subtitle {
+    font-weight: 500;
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+/* language modal */
+.modal-language {
+    width: 250px;
+    height: 180px;
+    position: absolute;
+    max-width: unset;
+    right: 0px;
+    margin: 10px 10px auto 10px;
+}
+
+.modal-language__text-title {
+    padding: 50px 30px 50px 0;
+}
+
+.modal-language--text {
+    font-weight: bold;
+    line-height: normal;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+/* language options modal */
+.modal-language-options {
+    width: 350px;
+    height: 180px;
+    position: absolute;
+    max-width: unset;
+    margin: 10px 10px auto 10px;
+}
+
+.modal-language-show {
+    height: 300px;
+    margin: 10px;
+    padding: 0 45px;
+    background-color: rgb(235, 235, 236);
+    background-blend-mode: darken;
+    border-radius: 10px;
+}
+
+.modal-language-options__text-title {
+    padding: 50px 30px 50px 0;
+}
+
+.modal-language-options--text {
+    font-weight: bold;
+    line-height: normal;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+/* last money modal */
+.modal-last-money {
+    width: 350px;
+    height: 80px;
+
+    max-width: unset;
+
+    margin: 10px 15px auto 10px;
+    background-color: #0b2e13;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modal-last-money__text-title {
+    font-weight: bold;
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+.modal-last-money--text {
+
+    line-height: normal;
+    font-size: 20px;
+
+}
+
+/* narrowcasting modal */
+.modal-adv43 {
+
+    position: absolute;
+    top: 180px;
+    left: 240px;
+    transition: all .5s linear;
+    border-radius: .25em;
+}
+
+.modal-dialog-notify {
+    max-width: unset !important;
+    width: 600px !important;
+    margin: 10px auto 0px auto !important;
+}
+
+/* large modal with cutout*/
+.modal-large-cutout {
+    width: calc(100vw - 20px);
+    height: calc(100vh - 20px);
+    max-width: unset;
+    margin: 10px;
+}
+
+.modal-large-cutout__image {
+    padding: 5px 0 60px;
+}
+
+.modal-large-cutout__image--image {
+    height: 180px;
+}
+
+.modal-large-cutout__text-title--title {
+    /* margin-bottom: 30px; */
+}
+
+.modal-large-cutout__text-title--text {
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    margin-bottom: 20px;
+}
+
+.modal-large-cutout__text-title--subtitle {
+    font-weight: 500;
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    padding-top: 70px;
+    margin-bottom: 25px;
+}
+
+.modal-large-cutout__usps {
+
+    bottom: 0;
+    padding-left: 20px;
+    width: 100%;
+}
+
+.modal-large-cutout__usps--usp-image {
+    height: 80px;
+
+    margin-bottom: 30px;
+}
+
+.modal-large-cutout__usps--usp-text {
+    font-weight: bold;
+    line-height: normal;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+.modal-content-cutout {
+    height: 100%;
+    width: 100%;
+    border: none;
+
+}
+
+/* prepaid modal */
+.modal-prepaid {
+    width: 250px;
+    height: 180px;
+    position: absolute;
+    max-width: unset;
+    left: 0px;
+    margin: 60px 10px auto 25px;
+}
+
+.modal-prepaid__text-title {
+    padding: 50px 30px 50px 0;
+}
+
+.modal-prepaid--text {
+    font-weight: bold;
+    line-height: normal;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+

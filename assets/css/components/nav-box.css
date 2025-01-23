@@ -1,0 +1,201 @@
+.nav-box__body--title {
+    margin-bottom: 6px;
+}
+
+.nav-box__body--text {
+    margin-bottom: -4px;
+}
+
+.nav-box__icon--icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    font-size: 40px;
+}
+
+.nav-box-left,
+.nav-box-right {
+    min-height: 180px;
+}
+
+[data-state='inactive'] .icon-icon_check,
+[data-state='active'] .icon-chevron_left,
+[data-state='active'] .icon-chevron_right {
+    display: none;
+}
+
+[data-state='disabled'] {
+    pointer-events: none;
+}
+
+/*[data-state='active'] {*/
+    /*pointer-events: none;*/
+/*}*/
+
+.nav-box__body {
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -ms-transition: all 0.35s;
+    -o-transition: all 0.35s;
+    transition: all 0.35s;
+}
+
+.nav-box__icon {
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -ms-transition: all 0.35s;
+    -o-transition: all 0.35s;
+    transition: all 0.35s;
+}
+
+/* Icon left */
+.nav-box-left .nav-box__body {
+    position: relative;
+    left: 74px;
+    width: calc(100% - 74px);
+    padding: 40px 10px 40px 0;
+    display: inline-block;
+    text-align: left;
+}
+
+.nav-box-left .nav-box__body-small {
+    position: relative;
+    left: 74px;
+    width: calc(100% - 74px);
+    padding: 70px 10px 40px 0;
+    display: inline-block;
+    text-align: left;
+}
+
+.nav-box-left .nav-box__icon {
+    position: absolute;
+    text-align: center;
+    height: 100%;
+    width: 64px;
+    left: 0;
+    border-top-left-radius: inherit;
+    border-bottom-left-radius: inherit;
+}
+
+/* Icon right */
+.nav-box-right .nav-box__body {
+    position: relative;
+    width: calc(100% - 114px);
+    padding: 40px 0 40px 10px;
+    display: inline-block;
+    text-align: right;
+}
+
+.nav-box-right .nav-box__body-small {
+    position: relative;
+    width: 160px;
+    padding: 70px 0 40px 10px;
+    display: inline-block;
+    text-align: right;
+}
+
+.nav-box-right .nav-box__icon {
+    position: absolute;
+    text-align: center;
+    height: 100%;
+    width: 64px;
+    right: 0;
+    border-top-right-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+/* Active state */
+[data-state='active'] .nav-box__icon {
+    background-color: var(--secondary);
+}
+
+[data-state='active'] .icon-chevron_left,
+[data-state='active'] .icon-chevron_right {
+    display: none;
+}
+
+[data-state='active'].nav-box-left .nav-box__body {
+    padding-left: 30px;
+}
+
+[data-state='active'].nav-box-left .nav-box__body-small {
+    padding-left: 0px;
+}
+
+[data-state='active'].nav-box-right .nav-box__body {
+    padding-right: 30px;
+}
+
+[data-state='active'].nav-box-right .nav-box__body-small {
+    padding-right: 0px;
+}
+
+/* Warning state */
+[data-state='warning'] .nav-box__icon {
+    background-color: var(--warning);
+}
+
+[data-state='warning'] .icon-chevron_left,
+[data-state='warning'] .icon-chevron_right {
+    display: none;
+}
+
+[data-state='warning'].nav-box-left .nav-box__body {
+    padding-left: 30px;
+}
+
+[data-state='warning'].nav-box-left .nav-box__body-small {
+    padding-left: 30px;
+}
+
+[data-state='warning'].nav-box-right .nav-box__body {
+    padding-right: 30px;
+}
+
+[data-state='warning'].nav-box-right .nav-box__body-small {
+    padding-right: 30px;
+}
+
+/* Info state */
+[data-state='info'] .nav-box__icon {
+    background-color: var(--primary);
+}
+
+[data-state='info'] .icon-chevron_left,
+[data-state='info'] .icon-chevron_right {
+    display: none;
+}
+
+[data-state='info'].nav-box-left .nav-box__body {
+    padding-left: 30px;
+}
+
+[data-state='info'].nav-box-left .nav-box__body-small {
+    padding-left: 30px;
+}
+
+[data-state='info'].nav-box-right .nav-box__body {
+    padding-right: 30px;
+}
+
+[data-state='info'].nav-box-right .nav-box__body-small {
+    padding-right: 30px;
+}
+
+/* Disabled state */
+[data-state='disabled'] {
+    opacity: 0.85;
+}
+
+/* Small box */
+.col-3 .nav-box-right .nav-box__body--title,
+.col-3 .nav-box-left .nav-box__body--title {
+    margin: 0;
+    line-height: 95px;
+}

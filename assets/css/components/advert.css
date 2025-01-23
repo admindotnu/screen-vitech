@@ -1,0 +1,26 @@
+video {
+    width: 600px;
+    height: 450px;
+    -moz-border-radius: .25rem;
+    -webkit-border-radius: .25rem;
+    border-radius: .25rem;
+    overflow: hidden;
+    object-fit: fill;
+    display: none;
+}
+
+.adv43-image {
+    width: 600px;
+    height: 450px;
+    -moz-border-radius: .25rem;
+    -webkit-border-radius: .25rem;
+    border-radius: .25rem;
+    overflow: hidden;
+    object-fit: fill;
+    display: none;
+
+}
+
+iframe {
+    border: 2px #1C3E72 solid;
+}

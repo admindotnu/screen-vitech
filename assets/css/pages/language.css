@@ -1,0 +1,17 @@
+.page-language {
+    height: 800px;
+}
+
+.language-actions {
+    position: absolute;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: 10px;
+}
+
+.language-actions__row:not(:first-child) {
+    margin-top: 20px;
+}

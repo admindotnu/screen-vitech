@@ -1,0 +1,43 @@
+.page-welcome {
+    height: 800px;
+    padding-top: 60px;
+}
+
+.welcome-text__title {
+    margin-bottom: 40px;
+}
+
+.welcome-text__text {
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+
+    margin-bottom: 20px;
+}
+
+.welcome-text__subtitle {
+    font-weight: 500;
+    line-height: 34px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+.welcome-actions {
+    position: absolute;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: 10px;
+}
+
+.welcome-actions__row:not(:first-child) {
+    margin-top: 20px;
+}
+
+.welcome-action-text {
+    line-height: 160px;
+    height: 160px;
+    margin: 0;
+}

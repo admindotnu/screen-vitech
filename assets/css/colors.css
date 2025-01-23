@@ -1,0 +1,62 @@
+/* Text */
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.text-secondary {
+    color: var(--secondary) !important;
+}
+
+.text-warning {
+    color: var(--warning) !important;
+}
+
+.text-primary-dark {
+    color: var(--primary-dark) !important;
+}
+
+.text-contactless-payment {
+    color: var(--contactless-payment) !important;
+}
+
+.text-payoniq {
+    color: var(--payoniq) !important;
+}
+
+/* Background */
+.bg-primary {
+    background-color: var(--primary) !important;
+}
+
+.bg-secondary {
+    background-color: var(--secondary) !important;
+}
+
+.bg-warning {
+    background-color: var(--warning) !important;
+}
+
+.bg-money {
+    background-color: var(--last-money) !important;
+}
+
+.bg-primary-dark {
+    background-color: var(--primary-dark) !important;
+}
+
+.bg-card-secondary {
+    background-color: rgba(34, 34, 34, 0.25);
+    background-blend-mode: darken;
+}
+
+.bg-gradient-primary {
+    background-image: url("../images/background_waves.svg"), linear-gradient(0deg, rgba(0, 174, 224, 0.3), rgba(0, 174, 224, 0.3)), linear-gradient(180deg, #6FCF97 0%, #66D2EA 100%);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
+
+.bg-gradient-secondary {
+    background-image: url("../images/background_waves.svg"), linear-gradient(0deg, #D5376B, #D5376B);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}

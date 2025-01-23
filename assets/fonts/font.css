@@ -1,0 +1,90 @@
+@font-face {
+	font-family: 'Source Sans Pro';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Source Sans Pro Black'),
+		local('SourceSansPro-Black'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdu.woff2 */
+		url('Source_Sans_Pro_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdo.woff */
+		url('Source_Sans_Pro_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdq.eot */
+		url('Source_Sans_Pro_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdp&skey=cf4dfcb31d72fb0a&v=v11#SourceSansPro */
+		url('Source_Sans_Pro_900.svg#SourceSansPro') format('svg'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdr.ttf */
+		url('Source_Sans_Pro_900.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Source Sans Pro';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Source Sans Pro SemiBold'),
+		local('SourceSansPro-SemiBold'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2 */
+		url('Source_Sans_Pro_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdo.woff */
+		url('Source_Sans_Pro_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdq.eot */
+		url('Source_Sans_Pro_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdp&skey=227a890402fab339&v=v11#SourceSansPro */
+		url('Source_Sans_Pro_600.svg#SourceSansPro') format('svg'),
+		/* from https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf */
+		url('Source_Sans_Pro_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		local('Ubuntu Regular'),
+		local('Ubuntu-Regular'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCs6KVjbNBYlgoKfw72.woff2 */
+		url('Ubuntu_400.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCs6KVjbNBYlgoKfw7w.woff */
+		url('Ubuntu_400.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCs6KVjbNBYlgoKfw7y.eot */
+		url('Ubuntu_400.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=4iCs6KVjbNBYlgoKfw7x&skey=7e59fc036a1a8481&v=v13#Ubuntu */
+		url('Ubuntu_400.svg#Ubuntu') format('svg'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCs6KVjbNBYlgoKfw7z.ttf */
+		url('Ubuntu_400.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Ubuntu Medium'),
+		local('Ubuntu-Medium'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCjC3jsGyN.woff2 */
+		url('Ubuntu_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCjC3jsGyL.woff */
+		url('Ubuntu_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCjC3jsGyJ.eot */
+		url('Ubuntu_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3jsGyK&skey=d8a1e01f6daf5892&v=v13#Ubuntu */
+		url('Ubuntu_500.svg#Ubuntu') format('svg'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCjC3jsGyI.ttf */
+		url('Ubuntu_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Ubuntu Bold'),
+		local('Ubuntu-Bold'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCxCvjsGyN.woff2 */
+		url('Ubuntu_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCxCvjsGyL.woff */
+		url('Ubuntu_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCxCvjsGyJ.eot */
+		url('Ubuntu_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCxCvjsGyK&skey=403363908a1ded4d&v=v13#Ubuntu */
+		url('Ubuntu_700.svg#Ubuntu') format('svg'),
+		/* from https://fonts.gstatic.com/s/ubuntu/v13/4iCv6KVjbNBYlgoCxCvjsGyI.ttf */
+		url('Ubuntu_700.ttf') format('truetype');
+}

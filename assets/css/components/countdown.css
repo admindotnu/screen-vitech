@@ -1,0 +1,59 @@
+.countdown {
+    position: relative;
+    height: 297px;
+    width: 297px;
+}
+
+.countdown-normal {
+    position: relative;
+    height: 297px;
+    width: 297px;
+}
+
+.countdown-small {
+    position: absolute;
+    top: 3%;
+    height: 297px;
+    width: 297px;
+}
+
+.timer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.timer-normal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.timer-small {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.timer-title {
+    margin: 0;
+}
+
+.timer-text {
+    margin: 0;
+}

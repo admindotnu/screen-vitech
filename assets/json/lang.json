@@ -1,0 +1,218 @@
+{
+  "NL": {
+    "welcome": {
+      "welcome_title": "Welkom bij carwash",
+      "welcome_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis lacus in dell nulla volutpat mattis elementum et orci. Phasellus gravida lacinia consectetur sac diam condimentum, luctus dui quis, volutpat risus non-krassa shiny.",
+      "welcome_subtitle": "Als u klaar bent met uw auto wassen, denkt u ook eens aan onderstaand:",
+      "change_language": {
+        "title": "Change language",
+        "text": "Sprache wechseln<br>Changer de langue"
+      },
+      "payment_method": "Kies je betaalmethode",
+      "payoniq": {
+        "title": "Betalen met payoniq",
+        "text": "Verrassend eenvoudig mobiel betalen"
+      },
+      "contactless_payment": {
+        "title": "Contactloos betalen",
+        "text": "Met je betaalpas of<br>mobiele telefoon"
+      }
+    },
+    "washinstructions": {
+      "welcome_title": "Stappenplan wassen:",
+      "finishline": "Via bovenstaand stappenplan, behaalt u het beste resultaat.",
+      "instructions": "<ol><li>Druk op de knop <strong>schuimlans</strong>. Neem vervolgens de schuimlans en spuit uw auto goed in.</li><li>Druk op de knop <strong>velgen reiniger</strong>. U wisselt niet van lans. Spuit de velgen goed in.</li><li>Druk op de knop <strong>hogedruk wassen</strong>. U wisselt niet van lans. Spuit uw auto goed schoon. Als u klaar bent zet u de lans terug op zijn plek.</li><li>Druk op de knop <strong>schuimborstelen</strong>. Pak vervolgens de schuimborstel en borstel uw auto zorgvuldig in met de schuimborstel. Zorg ervoor dat u alleen natte reeds afgespoten delen borstelt. Als u klaar bent zet u de borstel terug op zijn plek.</li><li>Druk op de knop <strong>spoelen</strong>. Pak vervolgens de hogedruk lans en spoel uw auto compleet vrij van zeep en vuil.</li><li>Druk op de knop <strong>parelglans wax</strong>. U wisselt niet van lans. Spuit uw auto helemaal goed in.</li><li>Druk op de knop <strong>vlekvrij naspoelen</strong>. U wisselt niet van lans. Spuit uw auto helemaal af. Dit zorgt ervoor dat uw auto vlekvrij opdroogt. Als u klaar bent zet u de lans terug op zijn plek.</li></ol>"
+    },
+    "splash": {
+      "welcome_title": "WELKOM",
+      "welcome_text": "U kunt direct beginnen door gebruik te maken van de volgende betalingsmogelijkheden:",
+      "welcome_subtitle": "Als u klaar bent met uw auto wassen, denkt u ook eens aan onderstaand:",
+      "icon1": "Lekkere koffie binnen!",
+      "icon2": "Bandenspanning controleren",
+      "icon3": "Oliepeil controleren",
+      "icon4": "Verlichting controleren",
+      "language": "Verander taal"
+    },
+    "transaction": {
+      "title": "Laatste transactie",
+      "microcoin": "Contante inworp: €",
+      "contactloos": "Contactloos: €"
+    },
+    "language": {
+      "cancel": {
+        "title": "Annuleren",
+        "text": "Taal niet wijzigen en terug naar het vorige scherm"
+      },
+      "button" : "Press the language button again to change language",
+      "language": "Verander taal",
+      "dutch": "Nederlands",
+      "english": "English"
+    },
+    "prepaid": {
+      "prepaid" : "Prepaid"
+    },
+    "navigation": {
+      "center_card": {
+        "title": "Niewaa",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit etiam quis lacus in dell nulla volutpat.",
+        "subtitle": "<strong>Discounta 10% dolor</strong> dolor lipsum <strong>Facebook</strong> avec Carwash ipsum."
+      },
+      "countdown": {
+        "remaining_time": "Resterende tijd"
+      },
+      "actions": {
+        "stop": {
+          "title": "Stoppen",
+          "text": "Tijd loopt door."
+        },
+        "info": {
+          "title": "Instructies",
+          "text": "Bekijk duidelijke wasinstructies."
+        },
+        "action_1": {
+          "title": "Voorreinigen",
+          "text": "Losweken van vuil."
+        },
+        "action_2": {
+          "title": "Powerfoam",
+          "text": "Speciaal voor hardnekkig vuil op uw velgen."
+        },
+        "action_3": {
+          "title": "Hogedruk wassen",
+          "text": "Verwijderen van vuil."
+        },
+        "action_4": {
+          "title": "Wasborstelen",
+          "text": "Losborstelen van vuil."
+        },
+        "action_5": {
+          "title": "Spoelen",
+          "text": "Spoelen met water."
+        },
+        "action_6": {
+          "title": "Parelglans wax",
+          "text": "Intensieve lakbescherming."
+        },
+        "action_7": {
+          "title": "Vlekvrij naspoelen",
+          "text": "Voor het vlekvij opdrogen."
+        },
+        "action_8": {
+          "title": "Vlekvrij naspoelen",
+          "text": "Voor het vlekvij opdrogen."
+        },
+        "action_9": {
+          "title": "Vlekvrij naspoelen",
+          "text": "Voor het vlekvij opdrogen."
+        },
+        "action_10": {
+          "title": "powerfoam",
+          "text": "Speciaal voor hardnekkig vuil op uw velgen."
+        },
+        "action_11": {
+          "title": "Wax",
+          "text": "Voor het "
+        },
+        "action_12": {
+          "title": "Afspoelen",
+          "text": "Voor het afspoelen van de auto."
+        },
+        "action_13": {
+          "title": "Vlekvrij naspoelen",
+          "text": "Voor het vlekvij opdrogen."
+        }
+      }
+    }
+  },
+  "EN": {
+    "welcome": {
+      "welcome_title": "Welkom bij carwash",
+      "welcome_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis lacus in dell nulla volutpat mattis elementum et orci. Phasellus gravida lacinia consectetur sac diam condimentum, luctus dui quis, volutpat risus non-krassa shiny.",
+      "welcome_subtitle": "<strong>Discounta 10% dolor</strong> dolor lipsum <strong>Facebook</strong> avec Carwash ipsum",
+      "change_language": {
+        "title": "Taal veranderen",
+        "text": "Sprache wechseln<br>Changer de langue"
+      },
+      "payment_method": "Choose payment method",
+      "payoniq": {
+        "title": "Pay with payoniq",
+        "text": "Verrassend eenvoudig mobiel betalen"
+      },
+      "contactless_payment": {
+        "title": "Contactless payment",
+        "text": "Met je betaalpas of<br>mobiele telefoon"
+      }
+    },
+    "splash": {
+      "welcome_title": "Welcome by MHE CARWASH",
+      "welcome_text": "Use one of the following payment options:",
+      "welcome_subtitle": "When you are finished washing your car, think about the following points:",
+      "icon1": "Tasty coffee inside!",
+      "icon2": "Check tire pressure",
+      "icon3": "Check oil level",
+      "icon4": "Check lights",
+      "language": "Change language"
+    },
+    "language": {
+      "cancel": {
+        "title": "Cancel",
+        "text": "Don\"t change language and return to previous screen"
+      },
+      "button" : "Druk nog een keer op de knop om de taal te wisselen.",
+      "language": "Change language",
+      "dutch": "Nederlands",
+      "english": "English"
+    },
+    "prepaid": {
+      "prepaid" : "Prepaid"
+    },
+    "navigation": {
+      "center_card": {
+        "title": "Niew",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit etiam quis lacus in dell nulla volutpat.",
+        "subtitle": "<strong>Discounta 10% dolor</strong> dolor lipsum <strong>Facebook</strong> avec Carwash ipsum."
+      },
+      "countdown": {
+        "remaining_time": "Resterende tijd"
+      },
+      "actions": {
+        "stop": {
+          "title": "Stoppen",
+          "text": "Tijd loopt door."
+        },
+        "info": {
+          "title": "Instructies",
+          "text": "Klik hier voor wasinstructies."
+        },
+        "action_1": {
+          "title": "Schuimlans",
+          "text": "Losweken van vuil."
+        },
+        "action_2": {
+          "title": "Afspoelen",
+          "text": "Onder hoge druk het schuim en shampoo van de auto afspoelen"
+        },
+        "action_3": {
+          "title": "Schuimlans",
+          "text": "Auto volledig inspuiten en het schuim 1 minuut laten intrekken"
+        },
+        "action_4": {
+          "title": "Afspoelen",
+          "text": "Onder hoge druk het schuim en shampoo van de auto afspoelen"
+        },
+        "action_5": {
+          "title": "Schuimlans",
+          "text": "Auto volledig inspuiten en het schuim 1 minuut laten intrekken"
+        },
+        "action_6": {
+          "title": "Afspoelen",
+          "text": "Onder hoge druk het schuim en shampoo van de auto afspoelen"
+        },
+        "action_7": {
+          "title": "Schuimlans",
+          "text": "Auto volledig inspuiten en het schuim 1 minuut laten intrekken"
+        }
+      }
+    }
+  }
+}

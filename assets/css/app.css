@@ -1,0 +1,59 @@
+/* Vendor */
+@import "../../vendor/bootstrap/css/bootstrap.min.css";
+@import "../../vendor/bootstrap-dialog/css/bootstrap-dialog.min.css";
+@import "../../vendor/carwash-iconfont/style.css";
+
+/* Base */
+@import "variables.css";
+@import "typography.css";
+@import "colors.css";
+
+/* Pages */
+@import "pages/welcome.css";
+@import "pages/language.css";
+@import "pages/navigation.css";
+
+/* Components */
+@import "components/nav-box.css";
+@import "components/countdown.css";
+@import "components/modal.css";
+@import "components/advert.css";
+@import "components/animate.css";
+@import "../fonts/font.css";
+
+.paragraph-lead {
+    font-family: Segoe UI;
+    line-height: normal;
+    font-size: 14px;
+
+    color: #212529;
+}
+
+.display-heading {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+    color: #222222;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 30px rgba(31, 32, 65, 0.15);
+}
+
+.fullscreen-image {
+    background-image: url('../images/fullscreen-image.png');
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.flag-icon {
+    text-shadow: 0 0 30px rgba(31, 32, 65, 0.15);
+}
