@@ -1,18 +1,18 @@
 .countdown {
     position: relative;
-    height: 297px;
+    height: 100px;
     width: 297px;
 }
 
 .countdown-normal {
     position: relative;
-    height: 297px;
+    height: 100px;
     width: 297px;
 }
 
 .countdown-small {
     position: absolute;
-    top: 3%;
+    top: -5%;
     height: 297px;
     width: 297px;
 }

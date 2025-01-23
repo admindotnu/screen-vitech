@@ -1,0 +1,13 @@
+.modal-mhe {
+    position: fixed;
+    top: auto;
+    right: auto;
+    left: 25px;
+    bottom: 12px;
+    font-weight: bolder;
+    line-height: normal;
+    font-size: 12px;
+    letter-spacing: 0.02em;
+    font-family: "Nexa Bold";
+    letter-spacing: 1px;
+}

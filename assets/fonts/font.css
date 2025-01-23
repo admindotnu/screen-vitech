@@ -1,4 +1,13 @@
 @font-face {
+	font-family: 'Nexa Bold';
+	font-style: normal;
+	font-weight: 400;
+	src:
+			local('Nexa Bold'),
+			url('NexaBold.ttf.woff') format('woff')
+}
+
+@font-face {
 	font-family: 'Source Sans Pro';
 	font-style: normal;
 	font-weight: 900;

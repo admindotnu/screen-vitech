@@ -267,6 +267,12 @@
         </div>
     </div>
 
+    <div id="modal-mhe" class="modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="false">
+        <div class="modal-mhe">
+            System by: HOFFS - ENGINEERING B.V. - Empowering Carwash Experience
+        </div>
+    </div>
+
     <div id="modal-2x12" class="modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="false">
         <div class="modal-dialog modal-2x12">
             <div class="modal-content col-12">
