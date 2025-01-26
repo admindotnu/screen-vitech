@@ -71,19 +71,19 @@
         },
         "action_1": {
           "title": "Voorreinigen",
-          "text": "Losweken van vuil."
+          "text": "Gebruik de spuitlans."
         },
         "action_2": {
           "title": "Powerfoam",
-          "text": "Speciaal voor hardnekkig vuil op uw velgen."
+          "text": "Gebruik de powerfoamlans."
         },
         "action_3": {
           "title": "Hogedruk wassen",
-          "text": "Verwijderen van vuil."
+          "text": "Gebruik de spuitlans."
         },
         "action_4": {
           "title": "Wasborstelen",
-          "text": "Losborstelen van vuil."
+          "text": "Gebruik de wasborstel."
         },
         "action_5": {
           "title": "Spoelen",
@@ -102,20 +102,20 @@
           "text": "Voor het vlekvij opdrogen."
         },
         "action_9": {
-          "title": "Vlekvrij naspoelen",
-          "text": "Voor het vlekvij opdrogen."
+          "title": "",
+          "text": ""
         },
         "action_10": {
-          "title": "powerfoam",
-          "text": "Speciaal voor hardnekkig vuil op uw velgen."
+          "title": "Vlekvrij naspoelen",
+          "text": "Gebruik de spuitlans."
         },
         "action_11": {
           "title": "Wax",
-          "text": "Voor het "
+          "text": "Gebruik de spuitlans."
         },
         "action_12": {
           "title": "Afspoelen",
-          "text": "Voor het afspoelen van de auto."
+          "text": "Gebruik de spuitlans."
         },
         "action_13": {
           "title": "Vlekvrij naspoelen",
