@@ -355,21 +355,19 @@ function setActiveAction(action) {
             }
         }
         else {
-console.log('button');
+
             $actions.each(function () {
                 if ($(this).is(':visible') && $(this).data('action') !== 'info' && $(this).data('action') !== 'stop') {
                     if ($(this).data('action') === action && 'active' === this.dataset.state) {
                         //setActiveAction(null);
                         return false;
-                        console.log('button 1');
+
                     }
                     else if ($(this).data('action') === action) {
                         this.dataset.state = 'active';
-                        console.log('button 2');
                         // TODO: add functionality to selected item
                     }
                     else {
-                        console.log('button 3');
                         this.dataset.state = 'inactive';
                         //this.dataset.state = 'disabled';
                     }
