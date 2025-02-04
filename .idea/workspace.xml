@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c432c548-a094-4b9c-a1ba-f1869c20e443" name="Changes" comment="2025012601">
+    <list default="true" id="c432c548-a094-4b9c-a1ba-f1869c20e443" name="Changes" comment="2025012602">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
@@ -54,7 +56,9 @@
       <workItem from="1737618105102" duration="13399000" />
       <workItem from="1737646553777" duration="4231000" />
       <workItem from="1737722445942" duration="186000" />
-      <workItem from="1737884100726" duration="2491000" />
+      <workItem from="1737884100726" duration="3157000" />
+      <workItem from="1738666430232" duration="199000" />
+      <workItem from="1738666677855" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="2025012301">
       <created>1737646782487</created>
@@ -77,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1737889172448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2025012602">
+      <created>1737892337593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737892337593</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2025012602">
+      <created>1737892351903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737892351903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +105,7 @@
     <MESSAGE value="2025012301" />
     <MESSAGE value="2025012302" />
     <MESSAGE value="2025012601" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025012601" />
+    <MESSAGE value="2025012602" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025012602" />
   </component>
 </project>
